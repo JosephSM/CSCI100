@@ -1,9 +1,8 @@
-
+//Joseph Schwartz- Messing
 #include <Adafruit_NeoPixel.h>
 int btn1_pressed = 0;
 int btn1 = 9;
 int btn2 = 10;
-int left_button_pin = 0;
 int pot_pin = A7;
 int num_pixels = 1;
 int pixel_pin = 8;
